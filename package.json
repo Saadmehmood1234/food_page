@@ -1,0 +1,12 @@
+{
+  "name": "p4",
+  "version": "1.0.0",
+  "description": "![React Course](https://user-images.githubusercontent.com/50476777/236658237-3f141863-a1ed-4860-a847-71ced21fa8a5.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
